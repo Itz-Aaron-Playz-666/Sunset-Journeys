@@ -1,0 +1,4 @@
+{
+  "name": "Luau Dev Container",
+  "image": "mcr.microsoft.com/devcontainers/luau:latest"
+}
