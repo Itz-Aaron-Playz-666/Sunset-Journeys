@@ -416,3 +416,41 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# User Define (Itz-Aaron-Playz-666)
+
+# Luau
+
+# Code coverage
+coverage.out
+
+# Profiling
+profile.out
+profile.svg# Code coverage
+coverage.out
+
+# Profiling
+profile.out
+profile.svg
+
+# Time trace
+trace.json
+
+# Dependencies and build artifacts for projects using tools like Rojo/npm
+**/node_modules
+/build
+/roblox
+*.rbxmx
+*.rbxm
+**/sourcemap.json
+
+# Time trace
+trace.json
+
+# Dependencies and build artifacts for projects using tools like Rojo/npm
+**/node_modules
+/build
+/roblox
+*.rbxmx
+*.rbxm
+**/sourcemap.json
